@@ -3,7 +3,7 @@
 Codé avec amour par Kwevan, Eang-ly et plein de copy/paste
 
 ## App HEROKU:
-https://movie-db-shit.herokuapp.com/
+https://guarded-sierra-87060.herokuapp.com
 
 ## Check l'app en mode local
 
@@ -26,5 +26,5 @@ rails '5.2.1'
 
 ## Autres ressources
 
-Beaucoup ignore d'ou vient la référence ```OKLM``` , la voila: 
+Beaucoup trop de gens ignore d'ou vient la référence ```OKLM``` , et comme nul n'est censé ignorer Booba la voila:
 https://www.youtube.com/watch?v=KpXSed8yVSI
