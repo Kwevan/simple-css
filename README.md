@@ -1,6 +1,6 @@
 # Petit HTML CSS OKLM
 
-Codé avec amour par Kwevan, Eang-ly et plein de copy/paste
+Codé avec amour par Kwevan, Eang-ly et plein de copy/pasta
 
 ## App HEROKU:
 https://guarded-sierra-87060.herokuapp.com
@@ -8,7 +8,7 @@ https://guarded-sierra-87060.herokuapp.com
 ## Check l'app en mode local
 
 ```
-$ git clone https://github.com/wilrib/The-movies-db
+$ git clone https://github.com/haku451/simple-css.git
 ```
 ```
 
