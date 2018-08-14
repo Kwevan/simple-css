@@ -26,5 +26,5 @@ rails '5.2.1'
 
 ## Autres ressources
 
-Beaucoup trop de gens ignore d'ou vient la référence ```OKLM``` , et comme nul n'est censé ignorer Booba la voila:
+Beaucoup trop de gens ignore d'ou vient la référence ```OKLM``` , et comme nul n'est censé ignorer Booba, la voila:
 https://www.youtube.com/watch?v=KpXSed8yVSI
