@@ -18,5 +18,5 @@
  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
  /* --- Import Components stylesheets --- */
  /* @import url("components/avatar.css"); */
- /* @import url("components/button.css"); */
+ @import url("components/button.css");
  @import url("components/all.css");
