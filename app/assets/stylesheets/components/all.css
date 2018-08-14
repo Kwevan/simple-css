@@ -14,7 +14,8 @@ background:  linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
 
 .header-landing {
 
-  /* background-color: red; */
+  /* background-color: black; */
+
 }
 
 #container-body {
@@ -41,6 +42,7 @@ align-items: center;
   margin: 0;  padding: 0;
   overflow: hidden;
   height: 50px;
+  /* background-color: black; */
 
 }
 
@@ -112,6 +114,8 @@ span {
 
 .block-title {
   text-align: center;
+  margin-top: 0px;
+  background-color: red;
 }
 
 
@@ -121,6 +125,7 @@ span {
 justify-content: center;
 align-content: center; */
 /* background-color: #ff9933; */
+margin-top: 50px;
 }
 
 .image {
