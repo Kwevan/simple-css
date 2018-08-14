@@ -18,10 +18,8 @@ outline:none;
 }
 button:hover{ /*pendant animation*/
   background:none;
-/* background:#fff; /*couleur du background du bouton pendant l'animation */ */
- color:#1AAB8A;
-/* color: red; /*couleur texte*/ */
-/* background:  rgba(51, 170, 51, .1)   ; */
+  color:#1AAB8A;
+
 }
 button:before,button:after{
 content:'';
