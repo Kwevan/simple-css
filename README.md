@@ -1,6 +1,6 @@
 # Petit HTML CSS OKLM
 
-Codé avec amour par Kwevan, Eang-ly et plein de copy/pasta
+Codé avec amour par Kwevan, Eang-ly
 
 ## App HEROKU:
 https://guarded-sierra-87060.herokuapp.com
